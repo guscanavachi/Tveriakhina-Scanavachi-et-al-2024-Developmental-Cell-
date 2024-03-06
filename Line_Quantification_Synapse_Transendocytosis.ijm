@@ -1,4 +1,4 @@
-
+%FIJI MACRO for synapse and transendocytosis quantification
 
 name = getTitle();
 
