@@ -1,4 +1,4 @@
-
+//FIJI MACRO for transendocytosis quantification overtime - MOSAIC
 
 experiment = " "; //choose experiment name ex02...
 
