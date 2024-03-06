@@ -1,4 +1,4 @@
-
+%MATLAB code to extract centroid positions from CME detections
 
 clearvars -except frameInfo t
 
