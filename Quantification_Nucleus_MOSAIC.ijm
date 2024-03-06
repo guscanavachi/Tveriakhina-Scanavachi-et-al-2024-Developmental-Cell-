@@ -1,3 +1,4 @@
+//FIJI MACRO for nucleus quantification overtime - MOSAIC
 
 nrois = roiManager("count");
 //print(nrois);
